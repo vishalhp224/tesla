@@ -1,0 +1,24 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+html{
+   scroll-behavior: smooth;
+}
+.header{
+   display: flex;
+   }
+.myul{
+   justify-content: center;
+      text-decoration: none;
+      list-style: none;
+   display: flex;
+}
+li{
+   margin-left: 20px;
+
+}
+.menu{
+   justify-items: flex-end;
+   justify-content: end;
+}
